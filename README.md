@@ -48,7 +48,6 @@ Data Collection and Data Processing
 
 Model Evaluation
 
-
 ![WhatsApp Image 2023-11-22 at 12 21 12_5a424c40](https://github.com/Abrammse/project-1-ROCK-VS-Mine-Prediction-ML-/assets/77212440/bbb0ef4a-5e04-4ba0-8371-3f8b4101e554)
 
 Making a Predictive System
