@@ -1,5 +1,4 @@
-# project-1-ROCK-VS-Mine-Prediction-ML-
-project 1 ROCK VS Mine Prediction is building a system in Python that can predict whether an object is either Rock or Mine with SONAR Data. For this use case, we are using Logistic Regression Model for our prediction. 
+
 
 
 # project-1-ROCK-VS-Mine-Prediction-ML-
@@ -13,9 +12,9 @@ The goal of this projectbuilding a system in Python that can predict whether an 
 
 <div align="center">    
  
-#ROCK-VS-Mine-Prediction-ML   
+# ROCK-VS-Mine-Prediction-ML   
 
-[![Paper](http://img.shields.io/badge/paper-arxiv.1001.2234-B31B1B.svg)](https://www.nature.com/articles/nature14539)
+[![Paper]()](https://www.nature.com/articles/nature14539)
 [![Conference](http://img.shields.io/badge/NeurIPS-2019-4b44ce.svg)](https://papers.nips.cc/book/advances-in-neural-information-processing-systems-31-2018)
 [![Conference](http://img.shields.io/badge/ICLR-2019-4b44ce.svg)](https://papers.nips.cc/book/advances-in-neural-information-processing-systems-31-2018)
 [![Conference](http://img.shields.io/badge/AnyConference-year-4b44ce.svg)](https://papers.nips.cc/book/advances-in-neural-information-processing-systems-31-2018)  
@@ -32,13 +31,12 @@ Conference
 </div>
  
 ## Description   
-What it does   
+project 1 ROCK VS Mine Prediction is building a system in Python that can predict whether an object is either Rock or Mine with SONAR Data. For this use case, we are using Logistic Regression Model for our prediction  
 
 ## How to run   
 First, install dependencies   
 ```bash
-# clone project   
-git clone https://github.com/YourGithubName/deep-learning-project-template
+# install  project   
 
 # install project   
 cd deep-learning-project-template 
