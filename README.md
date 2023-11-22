@@ -14,7 +14,7 @@ The goal of this project is to build a system in Python that can predict whether
  
 # ROCK-VS-Mine-Prediction-ML   
 
-[![Paper]()](https://www.nature.com/articles/nature14539)
+[![Paper]("C:\Users\user\Abram\Desktop\ROCK  VS  Mine  Prediction\WhatsApp Image 2023-11-22 at 12.04.32_00075c9e.jpg")](https://www.nature.com/articles/nature14539)
 
 
 
