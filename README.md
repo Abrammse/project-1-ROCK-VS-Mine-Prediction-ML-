@@ -32,7 +32,7 @@ https://github.com/Abrammse/project-1-ROCK-VS-Mine-Prediction-ML-.git
 cd ROCK-VS-Mine-Prediction-ML
 
 # run module on co-lap or Anaconda
- if use colap don't  forget  upload  his dataset on co lap   and change the link dataset
+ if use co-lap don't  forget to  upload  his dataset on co lap   and change the link dataset
 
 
 ```
@@ -42,4 +42,7 @@ cd ROCK-VS-Mine-Prediction-ML
  The first imported the dependencies
 
 ![WhatsApp Image 2023-11-22 at 12 14 23_a8932c6b](https://github.com/Abrammse/project-1-ROCK-VS-Mine-Prediction-ML-/assets/77212440/ce3105bc-6aaa-4aca-965c-e4832ab9e0c1)
+
+Data Collection and Data Processing
+
 
