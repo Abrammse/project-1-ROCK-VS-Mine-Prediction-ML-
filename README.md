@@ -4,6 +4,7 @@
 <div align="center">    
  
 # ROCK-VS-Mine-Prediction-ML   
+</div>
 
 - Description 
 - How to run
@@ -13,7 +14,6 @@
 The goal of this project is to build a system in Python that can predict whether an object is either Rock or Mine with SONAR Data. 
 
   
-</div>
  
 ## Description   
 project 1 ROCK VS Mine Prediction is building a system in Python that can predict whether an object is either Rock or Mine with SONAR Data. For this use case, we are using the Logistic Regression Model for our prediction  
@@ -36,6 +36,7 @@ cd ROCK-VS-Mine-Prediction-ML
 ```
 
 ##  How to work 
+<div align="center">    
 
  The first imported the dependencies
 
@@ -55,4 +56,4 @@ Making a Predictive System
 ![WhatsApp Image 2023-11-22 at 12 21 39_4dc170b9](https://github.com/Abrammse/project-1-ROCK-VS-Mine-Prediction-ML-/assets/77212440/12ec6ebb-b0d1-4a42-aa46-2fb5f9136914)
 
 
-
+</div>
