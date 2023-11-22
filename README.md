@@ -14,15 +14,7 @@ The goal of this project is to build a system in Python that can predict whether
 <div align="center">    
  
 # ROCK-VS-Mine-Prediction-ML   
-
-[![Paper]("![WhatsApp Image 2023-11-22 at 12 04 32_00075c9e](https://github.com/Abrammse/project-1-ROCK-VS-Mine-Prediction-ML-/assets/77212440/5698f294-56ac-4fc1-9ae6-562cf9f2bfca)
-")]
-
-
-
-<!--  
-Conference   
--->   
+  
 </div>
  
 ## Description   
@@ -45,4 +37,9 @@ cd ROCK-VS-Mine-Prediction-ML
 
 ```
 
+##  How to work 
+
+ The first imported the dependencies
+
+![WhatsApp Image 2023-11-22 at 12 04 32_00075c9e](https://github.com/Abrammse/project-1-ROCK-VS-Mine-Prediction-ML-/assets/77212440/5698f294-56ac-4fc1-9ae6-562cf9f2bfca)
 
