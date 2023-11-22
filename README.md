@@ -1,7 +1,9 @@
 
 
 
-# project-1-ROCK-VS-Mine-Prediction-ML-
+<div align="center">    
+ 
+# ROCK-VS-Mine-Prediction-ML   
 
 - Description 
 - How to run
@@ -10,10 +12,6 @@
 #### Goals  
 The goal of this project is to build a system in Python that can predict whether an object is either Rock or Mine with SONAR Data. 
 
-
-<div align="center">    
- 
-# ROCK-VS-Mine-Prediction-ML   
   
 </div>
  
@@ -31,7 +29,7 @@ https://github.com/Abrammse/project-1-ROCK-VS-Mine-Prediction-ML-.git
 # module folder
 cd ROCK-VS-Mine-Prediction-ML
 
-# run module on co-lap or Anaconda
+# Run module on co-lap or Anaconda
  if use co-lap don't  forget to  upload  his dataset on co-lap   and change the link dataset
 
 
@@ -51,11 +49,11 @@ Data Collection and Data Processing
 Model Evaluation
 
 
-
-
-
-
+![WhatsApp Image 2023-11-22 at 12 21 12_5a424c40](https://github.com/Abrammse/project-1-ROCK-VS-Mine-Prediction-ML-/assets/77212440/bbb0ef4a-5e04-4ba0-8371-3f8b4101e554)
 
 Making a Predictive System
+
+![WhatsApp Image 2023-11-22 at 12 21 39_4dc170b9](https://github.com/Abrammse/project-1-ROCK-VS-Mine-Prediction-ML-/assets/77212440/12ec6ebb-b0d1-4a42-aa46-2fb5f9136914)
+
 
 
