@@ -4,7 +4,8 @@
 # project-1-ROCK-VS-Mine-Prediction-ML-
 
 - Description 
-- How to run 
+- How to run
+- How to work 
 
 #### Goals  
 The goal of this project is to build a system in Python that can predict whether an object is either Rock or Mine with SONAR Data. 
